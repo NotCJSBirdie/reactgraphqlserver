@@ -1,0 +1,18 @@
+{
+  "name": "graphql-app",
+  "version": "1.0.0",
+  "description": "this is my very first graphql app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Carl Serquina",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.6.1",
+    "graphql": "^16.2.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15"
+  }
+}
